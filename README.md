@@ -20,7 +20,7 @@ The dataset includes:
   - **Google/Bing Index**: Rank of the source article on Bing and Google when the quote was searched
  
 ## Dataset 2: crawlerStatus.csv
-This dataset extends ([PaleWire’s database](https://palewi.re/docs/news-homepages/openai-gptbot-robotstxt.html)) to see which publishers enabled/disabled ([OpenAI's bots] (https://platform.openai.com/docs/bots)). We created this dataset by scraping the `robots.txt` files of the publisher websites. 
+This dataset extends [PaleWire’s database](https://palewi.re/docs/news-homepages/openai-gptbot-robotstxt.html) to see which publishers enabled/disabled [OpenAI's bots] (https://platform.openai.com/docs/bots). We created this dataset by scraping the `robots.txt` files of the publisher websites. 
 
 ## Partnerships and Lawsuits
 We used the database that Pete Brown put together that tracks Platform-Publisher partnerships ([source] https://petebrown.quarto.pub/pnp-ai-partnerships/)
