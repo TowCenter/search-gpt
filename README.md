@@ -1,7 +1,7 @@
 # README: Evaluating OpenAI Search Functionality
 
 
-The Tow Center conducted a study to better understand how publishers’ content is represented on the ChatGPT platform. We randomly selected 20 publishers across three categories:
+The Tow Center conducted a test to better understand how publishers’ content is represented on the ChatGPT platform. We randomly selected 20 publishers across three categories:
 
 - **Those partnered with OpenAI**  
 - **Those involved in lawsuits against OpenAI**  
@@ -27,7 +27,7 @@ The dataset includes:
   - **Google/Bing Index**: Rank of the source article on Bing and Google when the quote was searched
  
 ## Dataset 2: crawlerStatus.csv
-This dataset extends [PaleWire’s database](https://palewi.re/docs/news-homepages/openai-gptbot-robotstxt.html), analyzing which publishers enabled or disabled [OpenAI’s bots](https://platform.openai.com/docs/bots). We scraped the `robots.txt` files of publisher websites to determine permissions for bots like GPTBot and OAI-SearchBot.
+This dataset extends [PaleWire’s database](https://palewi.re/docs/news-homepages/openai-gptbot-robotstxt.html), analyzing which publishers enabled or disabled [OpenAI’s bots](https://platform.openai.com/docs/bots). We downloaded the `robots.txt` files of publisher websites to determine permissions for bots like GPTBot and OAI-SearchBot.
 
 ## Partnerships and Lawsuits
-We used the [database](https://petebrown.quarto.pub/pnp-ai-partnerships/) that Pete Brown put together that tracks platform-publisher relationships 
+We used the Tow Center's [database](https://petebrown.quarto.pub/pnp-ai-partnerships/) that tracks platform-publisher relationships. 
