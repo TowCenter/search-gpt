@@ -23,4 +23,4 @@ The dataset includes:
 This dataset extends [PaleWire’s database](https://palewi.re/docs/news-homepages/openai-gptbot-robotstxt.html), analyzing which publishers enabled or disabled [OpenAI’s bots](https://platform.openai.com/docs/bots). We scraped the `robots.txt` files of publisher websites to determine permissions for bots like GPTBot and OAI-SearchBot.
 
 ## Partnerships and Lawsuits
-We used the database that Pete Brown put together that tracks tracking platform-publisher relationships ([source](https://petebrown.quarto.pub/pnp-ai-partnerships/))
+We used the [database](https://petebrown.quarto.pub/pnp-ai-partnerships/) that Pete Brown put together that tracks platform-publisher relationships 
